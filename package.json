@@ -1,13 +1,14 @@
 {
   "name": "lyft-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "test app for lyft apprentice program",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ryan Ross",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
